@@ -1,4 +1,4 @@
 # DeliveryDriver
 Basic 2D game 
 
-Following DeliveryDriver explained in a Udemy course
+Following DeliveryDriver module of an Udemy course
